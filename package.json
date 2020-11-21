@@ -1,0 +1,15 @@
+{
+  "name": "go-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sabeur BEN HASSEN",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^5.2.0"
+  },
+  "scripts": {
+    "back": "cd Backend && npm start",
+    "front": "cd client && npm start",
+    "start": "concurrently \" yarn run back \" \"yarn run front\""
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://slh:h4HdRp5FZwa2xCxm@cluster0.pofi4.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "secretOrKey": "bhs"
+}
