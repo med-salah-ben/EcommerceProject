@@ -1,4 +1,4 @@
-# EcommerceProject
+# EcommerceProject full stack Js (MERN)
 auth(adimn and user only admin can add admin or remove user).
 only adimn can add,delete and edit product.
 also admin can see order details(user name,phone number,product details,Qty,price).
